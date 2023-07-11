@@ -20,21 +20,14 @@ timezone: Asia/Seoul
 
 title: PanicAthe # the main title
 
-<<<<<<< HEAD
-tagline: 늘 집에 가고싶은 Blog # it will display as the sub-title
-=======
 tagline: 늘 집에 가고싶은 블로그 # it will display as the sub-title
->>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-<<<<<<< HEAD
-url: ""
-=======
 url: "https://PanicAthe.github.io"
->>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
+
 
 github:
   username: PanicAthe # change to your github username
@@ -45,11 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
   name: PanicAthe
-=======
-  name: your_full_name
->>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
   email: ekdekdgkrp20@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -88,11 +77,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-<<<<<<< HEAD
-avatar: "/mine/profile/sp.jpg"
-=======
 avatar: "/mine/sp.jpg"
->>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
 
 # boolean type, the global switch for TOC in posts.
 toc: true
