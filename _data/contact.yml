@@ -3,6 +3,7 @@
 - type: github
   icon: "fab fa-github"
 
+<<<<<<< HEAD
 - type: twitter
   icon: "fab fa-twitter"
 
@@ -13,6 +14,11 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+=======
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+>>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -25,4 +31,8 @@
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
+<<<<<<< HEAD
 #   url:  ''                  # Fill with your stackoverflow homepage
+=======
+#   url:  ''                  # Fill with your stackoverflow homepage
+>>>>>>> 69d1ab2fb17c819abf887777906161dfd9cddb00
